@@ -82,3 +82,5 @@ END;
 
 --kutse
 EXEC otsingUudiseTeema 'w'
+
+--screenid on readme failis
